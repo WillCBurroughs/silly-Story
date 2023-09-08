@@ -1,0 +1,19 @@
+
+.fade-in {
+
+    animation: fadeIn 4s;
+
+}
+
+.lightning {
+    position: fixed; 
+    top: 0; 
+    height: 1200px;
+  }
+
+
+
+@keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
